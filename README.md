@@ -15,7 +15,7 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 cd YoutubeVideoDownloader
 npm i
-node index
+node index.js <-V -A -P> <url> <extensions>
 ```
 
 ## Development
@@ -23,7 +23,7 @@ node index
 First Tab:
 
 ```sh
-node file.js <-V -A -P> <url> <extensions>
+node index.js <-V -A -P> <url> <extensions>
 ```
 ```
 (Video, Audio, Playlist) (URL of target) (mp4, mka, mp3...)
