@@ -2,7 +2,7 @@
 ## _The best ever YoutubeVideoDownloader_
 
 ![N|Solid](https://img.guildedcdn.com/ContentMediaGenericFiles/d6dacda4bfb6843ee54e74cba564a333-Full.webp?w=722&h=121)
-[![Build Status](https://img.guildedcdn.com/ContentMediaGenericFiles/136e82386b90856a57f1cfca823b9efb-Full.webp?w=827&h=119)]
+![Build Status](https://img.guildedcdn.com/ContentMediaGenericFiles/136e82386b90856a57f1cfca823b9efb-Full.webp?w=827&h=119)
 NodeJS YoutubeVideoDownloader created by PeacefulTrees
 
 ## Installation
